@@ -2,7 +2,9 @@
 An analysis of correlation between education and salary across the globe
 
 # Visualization
-A Tableau visualization for this project can be found [here](https://public.tableau.com/app/profile/jonathan.baldon/viz/GlobalVisualizationofSalaryandFormalEducation/Dashboard1).
+The original Tableau visualization I created for this project can be found [here](https://public.tableau.com/app/profile/jonathan.baldon/viz/GlobalVisualizationofSalaryandFormalEducation/Dashboard1).
+
+![Global_Ed_and_Sal_Viz](https://github.com/user-attachments/assets/6b501be2-7cd6-46f0-82c5-4c7e2df2f57e)
 
 # About 
 The visualization is based on global salary data from [here](https://www.kaggle.com/datasets/zedataweaver/global-salary-data) and global education data from [here](https://www.kaggle.com/datasets/imtkaggleteam/global-education/data?select=4-+gender-gap-education-levels.csv). I then cleaned and joined these two datasets using mySQL (the queries I created and used can be ound in the sql file in the project folder). I then created visualizations of the correlated data in Excel and in Tableau.
